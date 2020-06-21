@@ -1,8 +1,10 @@
 [![HitCount](http://hits.dwyl.com/kannansingaravelu/PythonResources.svg)](http://hits.dwyl.com/kannansingaravelu/PythonResources)
 # PythonResources
-A curated list of Python resources on Quantitative Finance
+My curated list of Python resources on Quantitative Finance
 
-## Books
+---
+
+### Books
 
 - [Aurelien Geron (2019), Hands–On Machine Learning with Scikit–Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3hMNeSD)
 
