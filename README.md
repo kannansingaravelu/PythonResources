@@ -1,7 +1,5 @@
-# PythonResources
----
 [![HitCount](http://hits.dwyl.com/kannansingaravelu/PythonResources.svg)](http://hits.dwyl.com/kannansingaravelu/PythonResources)
-
+# PythonResources
 A curated list of Python resources on Quantitative Finance
 
 ## Books
