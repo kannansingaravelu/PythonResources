@@ -70,6 +70,7 @@ My curated list of Python resources on Quantitative Finance
 ### Technical Analysis Libraries
 
 - [TA-Lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib
+- [Pandas-ta](https://github.com/twopirllc/pandas-ta) - Easy to use technical analysis library
 
 
 ### Validation Libraries
