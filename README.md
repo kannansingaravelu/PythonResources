@@ -1,30 +1,8 @@
 [![HitCount](http://hits.dwyl.com/kannansingaravelu/PythonResources.svg)](http://hits.dwyl.com/kannansingaravelu/PythonResources)
 # PythonResources
-My curated list of Python resources on Quantitative Finance
+My curated list of resources on Data Science, Machine Learning, and Quantitative Finance. This is not an exhaustive list but helps you get started.
 
 ---
-
-### Books
-
-- [Aurelien Geron (2019), Hands–On Machine Learning with Scikit–Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3hMNeSD)
-
-- [François Chollet (2017), Deep Learning with Python](https://amzn.to/3dgeu8t)
-
-- [Jake VanderPlas (2016), Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3hNDIP5)
-
-- [Marcos M. Lopez de Prado (2020), Machine Learning for Asset Managers (Elements in Quantitative Finance)](https://amzn.to/3dfQBOs)
-
-- [Tony Guida (2019), Big Data and Machine Learning in Quantitative Investment](https://amzn.to/2V5dqy7)
-
-- [Wes McKinney (2018), Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://amzn.to/2AYvQtB)
-
-- [Yves Hilpisch (2015), Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging](https://amzn.to/2V59QnF)
-
-- [Yves Hilpisch (2016), Listed Volatility and Variance Derivatives: A Python–based Guide](https://amzn.to/3fPxvk5)
-
-- [Yves Hilpisch (2018), Python for Finance](https://amzn.to/311RSGr)
-
-- [Yves Hilpisch (2020), Artificial Intelligence in Finance: A Python–based Guide](https://amzn.to/2BmcbDH)
 
 
 ### Data API
@@ -41,8 +19,26 @@ My curated list of Python resources on Quantitative Finance
 
 - [YFinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader.
 
+### Data Science & Machine Learning
 
-### Derivatives Libraries
+- [Aurelien Geron (2019), Hands–On Machine Learning with Scikit–Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3hMNeSD)
+
+- [François Chollet (2017), Deep Learning with Python](https://amzn.to/3dgeu8t)
+
+- [Jake VanderPlas (2016), Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3hNDIP5)
+
+- [Marcos M. Lopez de Prado (2020), Machine Learning for Asset Managers (Elements in Quantitative Finance)](https://amzn.to/3dfQBOs)
+
+- [Tony Guida (2019), Big Data and Machine Learning in Quantitative Investment](https://amzn.to/2V5dqy7)
+
+- [Yves Hilpisch (2020), Artificial Intelligence in Finance: A Python–based Guide](https://amzn.to/2BmcbDH)
+
+
+### Derivatives 
+
+- [Yves Hilpisch (2015), Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging](https://amzn.to/2V59QnF)
+
+- [Yves Hilpisch (2016), Listed Volatility and Variance Derivatives: A Python–based Guide](https://amzn.to/3fPxvk5)
 
 - [QuantLib-Python](https://www.quantlib.org) - Backward-compatible meta-package for the QuantLib module.
 
@@ -62,9 +58,11 @@ My curated list of Python resources on Quantitative Finance
 - [TensorFlow](https://www.tensorflow.org) - Open source library for high performance numerical computation.
 
 
-### Python Wheels
+### Python
 
-- [Python Wheels](https://pythonwheels.com) - New standard of Python distribution.
+- [Wes McKinney (2018), Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://amzn.to/2AYvQtB)
+
+- [Yves Hilpisch (2018), Python for Finance: Mastering Data-Driven Finance](https://amzn.to/311RSGr)
 
 
 ### Technical Analysis Libraries
@@ -93,3 +91,9 @@ My curated list of Python resources on Quantitative Finance
 - [Plotly](https://plotly.com/python/) - Open-source, interactive data visualization library for Python
 
 - [Seaborn](https://seaborn.pydata.org) - Library for making statistical graphics in Python.
+
+
+### Wheels
+
+- [Python Wheels](https://pythonwheels.com) - New standard of Python distribution.
+
